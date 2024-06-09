@@ -25,9 +25,9 @@ Retailytics is an advanced analytics tool designed for retail environments such 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: [your-email@akshaysanil125@.com](mailto:your-email@example.com)
-- GitHub: [https://github.com/akshaysanil](https://github.com/akshaysanil)
-- Linkedin: [https://linkedin.com/akshaysanil]([https://twitter.com/your-twitter-handle](https://www.linkedin.com/in/akshay-sanil-051415239/))
+- Email: [akshaysanil125@gmail.com](mailto:your-email@example.com)
+- GitHub: [github.com/akshaysanil](https://github.com/akshaysanil)
+- Linkedin: [linkedin.com/akshaysanil](https://www.linkedin.com/in/akshay-sanil-051415239/)
 
 
 
