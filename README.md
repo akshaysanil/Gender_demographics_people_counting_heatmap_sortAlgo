@@ -3,10 +3,7 @@
 #                                    Retailytics
 
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Contact](#contact)
 
 ## Introduction
 
